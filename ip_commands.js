@@ -1,5 +1,5 @@
 const { MessageCollector } = require("discord.js-collector");
-
+const { TOKEN } = require('./config.json');
 const { Client } = require("discord.js");
 const client = new Client();
 client.on("ready", () => {
