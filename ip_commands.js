@@ -35,4 +35,4 @@ dns.lookup(message.content,
 // Websites Ip Tracker with :
 // DNS, DISCORDJS COLLECTOR
 
-client.login('your_tokem');
+client.login(TOKEN);
