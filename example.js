@@ -29,8 +29,3 @@ dns.lookup(domainDanWebDia,
 })
             }
         })
-    }
-	}
-});
-
-// idk its work or no tho
