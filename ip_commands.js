@@ -31,7 +31,7 @@ dns.lookup(message.content,
         }); 
     }
 });
-// Coded by FrenzySG
+// Idea : FrenzySG
 // Websites Ip Tracker with :
 // DNS, DISCORDJS COLLECTOR
 
